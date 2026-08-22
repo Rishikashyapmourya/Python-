@@ -1,0 +1,52 @@
+# for i in range (11):
+#     print(i)
+ 
+# for loop with list
+
+# l=[21,11,33,44]
+# for item in l:
+#     print(item)
+
+# for loop with tuples
+# t=("rishi", 21,True, "krish")
+# for item in t:
+#     print(item)
+
+
+# for loop with string
+# a="raj"
+# for i in a:
+#     print(i)
+
+
+#  for loop with step-size
+
+# for i in range(0,100,4):
+    # print(i)
+
+# For Loop With Else
+# for i in range (11):
+#     print(i)
+# else:
+#     print("done")# this is printed when the loop exhausts!
+
+# The Break Statement
+# for i in range (11):
+#     print(i)
+#     if i==3:   # this will print 0,1,2 and 3
+#         break
+
+
+# for i in range (11):
+#         # print("printing")
+#         if i==2:
+#             continue  # if i is 2, the iteration is skipped
+#         print(i)        
+
+
+# Pass Statement
+ 
+i=[1,5,9]
+
+for item in i:
+    pass # without pass, the program will throw an error
